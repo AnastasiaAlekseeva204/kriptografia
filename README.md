@@ -20,4 +20,6 @@
 ```bash
 git clone https://github.com/AnastasiaAlekseeva204/kriptografia.git
 
-2.Запуск программы
+2. Запуск программы
+3. Запуск тестов
+4. Размещение в репозиторий
